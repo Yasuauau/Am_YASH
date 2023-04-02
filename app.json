@@ -2,7 +2,7 @@
 {
     "name"Yash bot",
     "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository": "https://github.com/Yasuauau/Am_YASH",
+    "repository":"https://github.com/Yasuauau/Am_YASH",
     "logo": "https://te.legra.ph/file/b0e09aabe796209f01d3d.jpg",
     "keywords": [
     "python3",
