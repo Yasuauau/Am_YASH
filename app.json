@@ -35,27 +35,27 @@
       "API_ID": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "15208168"
       },
       "API_HASH": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "30eb222ebfee0d58dea361119dadf1e6"
       },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6183443329"
+         "value": "6156297971"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6183443329"
+         "value": "6156297971"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "AM_orochimaru"
+         "value": "JAI_SHREE_RAM_BOL"
       },
       "LOG_GROUP_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
@@ -75,7 +75,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "5997186896:AAFqXlErOxR9FjiZquHI9nTU4lvFNkBp8eE"
       }
    }
 }
