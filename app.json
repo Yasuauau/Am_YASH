@@ -1,8 +1,8 @@
 
 {
-    "name"Yash bot",
+    "name": Yashxᴏɴᴏʙᴏᴛ",
     "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository":"https://github.com/Yasuauau/Am_YASH",
+    "repository": "https://github.com/Yasuauau/Am_YASH",
     "logo": "https://te.legra.ph/file/b0e09aabe796209f01d3d.jpg",
     "keywords": [
     "python3",
@@ -45,22 +45,22 @@
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6156297971"
+         "value": "6183443329"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value":"6156297971"
+         "value": "6183443329"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "JAI_SHREE_RAM_BOL"
+         "value": "AM_orochimaru"
       },
-      "EVENT_LOGS": {
+      "LOG_GROUP_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
          "required": true,
-         "value": "-100"
+         "value": "-100"-1001808464069
       },
       "DATABASE_URL": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (sǫʟ :- elephantsql.com).",
@@ -79,4 +79,3 @@
       }
    }
 }
-
